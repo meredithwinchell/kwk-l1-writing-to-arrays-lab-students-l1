@@ -21,7 +21,6 @@ def change_rainbow_colors
 
 end
 
-rainbow_colors
 
 
 
