@@ -10,11 +10,10 @@ def change_rainbow_colors
     "default",
     "light_cyan"
   ]
-  rainbow_color_one = rainbow_colors[0]
   puts rainbow_color_one = "red"
-  rainbow_color_two = [1]
+  
   puts rainbow_color_two = "light_red"
-  rainbow_color_three = [2]
+
   puts rainbow_color_three = "light_yellow"
 
 
