@@ -8,16 +8,11 @@ def change_rainbow_colors
 
   rainbow_colors = [0]
   puts rainbow_color = "red"
-
+  rainbow_colors = [1]
   puts rainbow_color_two = "light_red"
-
+  rainbow_colors = [2]
   puts rainbow_color_three = "light_yellow"
 
-  rainbow_colors = [
-    "red",
-    "blue",
-    "light_yellow"
-  ]
 end
 
 
