@@ -11,7 +11,7 @@ def change_rainbow_colors
   puts rainbow_color = "light_red"
   rainbow_color = [2]
   puts rainbow_color = "light_yellow"
-  
+
 
 end
 
