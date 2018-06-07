@@ -5,8 +5,9 @@ rainbow_colors = [
 ]
 
 def change_rainbow_colors
+  require 'colorize'
   rainbow_color = [0]
-  puts rainbow_color = "red"
+  puts rainbow_color = "red".red
   rainbow_color = [1]
   puts rainbow_color = "light_red"
   rainbow_color = [2]
