@@ -13,7 +13,7 @@ def change_rainbow_colors
   puts rainbow_color = "light_yellow"
 
 end
-change_rainbow_colors
+
 
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
 
