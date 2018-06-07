@@ -21,6 +21,8 @@ def change_rainbow_colors
 
 end
 
+rainbow_colors
+
 
 
 def add_colors
