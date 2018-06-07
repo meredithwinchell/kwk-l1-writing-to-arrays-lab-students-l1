@@ -6,11 +6,11 @@ rainbow_colors = [
 
 def change_rainbow_colors
   rainbow_color = [0]
-  puts rainbow_color = "red".red
+  puts rainbow_color = "red"
   rainbow_color = [1]
-  puts rainbow_color = "light_red".light_red
+  puts rainbow_color = "light_red"
   rainbow_color = [2]
-  puts rainbow_color = "light_yellow".light_yellow
+  puts rainbow_color = "light_yellow"
 
 
 end
