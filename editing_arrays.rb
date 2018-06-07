@@ -14,7 +14,7 @@ def change_rainbow_colors
   puts rainbow_color_three = "light_yellow"
 
   rainbow_colors = [
-    "yellow",
+    "red",
     "default",
     "light_cyan"
   ]
